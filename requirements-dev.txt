@@ -1,0 +1,5 @@
+# Local IDE/linting dependencies (Airflow runs in the Astro Docker image at runtime).
+apache-airflow==3.2.1
+apache-airflow-providers-http
+apache-airflow-providers-postgres
+requests
